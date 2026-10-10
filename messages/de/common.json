@@ -1,0 +1,10 @@
+{
+  "appName": "Arbeitsbereich",
+  "language": "Sprache",
+  "nav": {
+    "dashboard": "Übersicht",
+    "settings": "Account settings"
+  },
+  "save": "Speichern",
+  "cancel": "Abbrechen"
+}

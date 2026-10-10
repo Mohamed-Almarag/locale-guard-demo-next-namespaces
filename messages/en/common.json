@@ -1,0 +1,10 @@
+{
+  "appName": "Workspace",
+  "language": "Language",
+  "nav": {
+    "dashboard": "Dashboard",
+    "settings": "Account settings"
+  },
+  "save": "Save",
+  "cancel": "Cancel"
+}

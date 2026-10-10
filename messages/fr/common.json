@@ -1,0 +1,10 @@
+{
+  "appName": "Espace de travail",
+  "language": "Langue",
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres du compte"
+  },
+  "save": "Enregistrer",
+  "cancel": "Annuler"
+}

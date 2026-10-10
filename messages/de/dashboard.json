@@ -1,0 +1,8 @@
+{
+  "title": "Deine Projekte",
+  "welcome": "Willkommen zurück, {name}",
+  "projects": "{count, plural, =0 {Noch keine Projekte} one {# Projekt} other {# Projekte}}",
+  "openTasks": "{count, plural, =0 {Keine offenen Aufgaben} one {# offene Aufgabe} other {# offene Aufgaben}}",
+  "updated": "Aktualisiert am {date}",
+  "newProject": "Neues Projekt"
+}
