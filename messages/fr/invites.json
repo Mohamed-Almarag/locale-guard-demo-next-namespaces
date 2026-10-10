@@ -1,0 +1,8 @@
+{
+  "title": "Invite your team",
+  "sent": "{count, plural, one {# invitation envoyée} other {# invitations envoyées}}",
+  "role": "{rôle, select, admin {Peut gérer la facturation et les membres} other {Peut voir et modifier les projets}}",
+  "expires": "Ce lien expire dans <strong>{days} jours</strong>",
+  "rank": "Votre équipe est la {place, selectordinal, other {#e}} plus active ce mois-ci",
+  "resend": "Renvoyer l'invitation"
+}
