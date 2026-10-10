@@ -4,5 +4,11 @@
   "projects": "{count, plural, =0 {Noch keine Projekte} one {# Projekt} other {# Projekte}}",
   "openTasks": "{count, plural, =0 {Keine offenen Aufgaben} one {# offene Aufgabe} other {# offene Aufgaben}}",
   "updated": "Aktualisiert am {date}",
-  "newProject": "Neues Projekt"
+  "newProject": "Neues Projekt",
+  "usage": {
+    "title": "Nutzung diesen Monat",
+    "storage": "{used} von {limit} GB belegt",
+    "members": "{count, plural, one {# von 5 Plätzen belegt} other {# von 5 Plätzen belegt}}",
+    "upgrade": "Mehr nötig? <link>Tarif upgraden</link>"
+  }
 }
