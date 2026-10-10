@@ -4,7 +4,7 @@ import { routing } from './routing'
 
 // Each language is a folder, and each file in it is a namespace:
 // messages/ar/dashboard.json holds the `dashboard` messages in Arabic.
-export const namespaces = ['common', 'dashboard'] as const
+export const namespaces = ['common', 'dashboard', 'invites'] as const
 
 export default getRequestConfig(async ({ requestLocale }) => {
   const requested = await requestLocale
