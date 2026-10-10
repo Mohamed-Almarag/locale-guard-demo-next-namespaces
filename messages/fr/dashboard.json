@@ -3,5 +3,11 @@
   "welcome": "Bon retour, {name}",
   "projects": "{count, plural, =0 {Aucun projet pour l'instant} one {# projet} other {# projets}}",
   "openTasks": "{count, plural, =0 {Aucune tâche ouverte} one {# tâche ouverte} other {# tâches ouvertes}}",
-  "newProject": "Nouveau projet"
+  "newProject": "Nouveau projet",
+  "usage": {
+    "title": "Utilisation ce mois-ci",
+    "storage": "{used} Go utilisés sur {limit}",
+    "members": "{count, plural, one {# place sur 5 occupée} other {# places sur 5 occupées}}",
+    "upgrade": "Besoin de plus ? <link>Passez à l'offre supérieure</link>"
+  }
 }
