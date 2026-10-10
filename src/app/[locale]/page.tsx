@@ -30,6 +30,12 @@ export default function DashboardPage({ params }: { params: Promise<{ locale: st
         ))}
       </ul>
       <button type="button">{t('newProject')}</button>
+      <section>
+        <h2>{t('usage.title')}</h2>
+        <p>{t('usage.storage', { used: 3.2, limit: 10 })}</p>
+        <p>{t('usage.members', { count: 4 })}</p>
+        <p>{t.rich('usage.upgrade', { link: (chunks) => <a href="/billing">{chunks}</a> })}</p>
+      </section>
     </>
   )
 }
