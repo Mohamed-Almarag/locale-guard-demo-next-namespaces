@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: Mohamed-Almarag/locale-guard@v1
+      - uses: Mohamed-Almarag/locale-guard@dev
         with:
           files: messages/{locale}/*.json
           format: next-intl
